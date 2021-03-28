@@ -1,1 +1,8 @@
+{
+    "username":"kullanici001",
+    "password":"sifre.1234",
+    "background_color":[162, 1, 0],
+    "text_color":[253, 255, 248],
+    "delay":5
 
+}
