@@ -1,4 +1,4 @@
-# clockram
+# Instagram-Real-Time-Profile-Photo-Update-Bot
 
 Instagram hesabınızın profil fotoğrafını o anki saate ayarlar. Max hata payı 5 saniyedir, bunu siz değiştirebilirsiniz.
 
